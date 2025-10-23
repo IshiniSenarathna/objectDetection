@@ -5,10 +5,6 @@ objectDetection/classifier.yml
 classifier.yml
 # Ignore Jupyter checkpoint dirs
 .ipynb_checkpoints/
-# Optionally ignore image files anywhere (remove if you need some images tracked)
-*.jpg
-*.jpeg
-*.png
 # Other typical ignores (optional)
 __pycache__/
 *.pyc
